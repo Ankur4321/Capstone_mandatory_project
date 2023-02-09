@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Capstone_mandatory_project/static/css/main.db296378.css",
+    "main.js": "/Capstone_mandatory_project/static/js/main.07357129.js",
+    "static/media/man2.jpg": "/Capstone_mandatory_project/static/media/man2.751eba7818139924487c.jpg",
+    "static/media/boy-img.png": "/Capstone_mandatory_project/static/media/boy-img.fe317ef593c39e757164.png",
+    "index.html": "/Capstone_mandatory_project/index.html",
+    "main.db296378.css.map": "/Capstone_mandatory_project/static/css/main.db296378.css.map",
+    "main.07357129.js.map": "/Capstone_mandatory_project/static/js/main.07357129.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db296378.css",
+    "static/js/main.07357129.js"
+  ]
+}
